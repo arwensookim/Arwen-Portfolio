@@ -1,2 +1,2 @@
-[CLICK HERE](https://arwensookim.github.io/Arwen-Portfolio/ target="_blank") for my portfolio website !
+[CLICK HERE](https://arwensookim.github.io/Arwen-Portfolio/) for my portfolio website !
 Thank you :D
